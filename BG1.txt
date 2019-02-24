@@ -1,0 +1,10 @@
+Summary:	 
+In Main Menu of app."File Manager" command "Rename" double duplicated on toolbar panel.
+Description:	 
+Steps to reproduce:
+	1)Laungh app. "File Manager".
+Expected result:
+	1) Command "Rename" in tublar panel indicated once without duplicate on toolbar panel.
+Actual result:
+	1)In application "File Manager" in tooblar panel first command "Rename" is found twice; these is two identical commands "Rename" with the same functions.
+Severity:normal

@@ -1,0 +1,13 @@
+Summary:
+	 Check-box "Unselect all" is not actice in Main menu of "File Manager"
+Description:
+	 Steps to reproduce:
+1)Laungh the app "File Manager".
+2)Put the files in the folder to check "Select All"
+3)Check the check-box "Select All"
+4) Check the check-box "Unselect all".
+	 Expected result:
+1)Check-box "unselect all" is active.
+	 Actual result:
+1)Check-box "Unselect all"is not active.
+	Severity: normal
